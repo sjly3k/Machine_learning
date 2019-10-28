@@ -16,10 +16,14 @@
 
 ## 2. Automatic Face Replacement Service for portrait rights protection using Face Recognition and cycleGAN
 
-### What I do
+### What this Service do
 - With Face Recognition and CycleGAN model, my project group developed Automatic Face Replacement Service. 
-- We detect humans' faces in given input picture, and then we used face recognition and recognize the known face which is featured with the default picture using FaceNet.
-- We give users back a revised picture that unknown faces in the picture are replaced with Simpson-like faces using cycleGAN.
+- This service detect human faces in given input picture, and then we used face recognition and recognize the known face which is featured with the default picture using FaceNet.
+- This service give users back a revised picture that unknown faces in the picture are replaced with Simpson-like faces using cycleGAN.
+
+### What I do
+- Using Google Cloud Platform, study CycleGAN model with 2 image (Human face, Simpson face) and get results (see below).
+- And also, make web-page for demo in Django, Bootstrap 4.
 
 ### Result Picture
 

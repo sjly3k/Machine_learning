@@ -14,6 +14,12 @@
 - Xgboost
 - Scikit-learn (sklearn)
 
+### Result Report
+
+- You can also look this full report in this link (/NYC Taxi Duration Analysis/Taxi Dataset Analysis.docx)
+- *Result*
+  - <img src="/img/result_report.png" width="450px" height="600px" title="result_report_pic" alt="Result Report"></img><br>
+
 ## 2. Automatic Face Replacement Service for portrait rights protection using Face Recognition and cycleGAN
 
 ### What this Service do
@@ -28,10 +34,10 @@
 ### Result Picture
 
 - *Result 1*
-  - <img src="/Silicon Valley Data Science⁩/result_img⁩/result_1.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 1"></img><br>
+  - <img src="/img/result_1.png" width="500px" height="300px" title="result_1_pic" alt="Result Picture 1"></img><br>
 
 - *Result 2*
-  - <img src="/Silicon Valley Data Science⁩/result_img⁩/result_2.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 2"></img><br>
+  - <img src="/img/result_2.png" width="500px" height="300px" title="result_1_pic" alt="Result Picture 2"></img><br>
 
 **Documents**
 
